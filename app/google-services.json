@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "678326234024",
+    "firebase_url": "https://kent-news-feed.firebaseio.com",
+    "project_id": "kent-news-feed",
+    "storage_bucket": "kent-news-feed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678326234024:android:53a4f7f0cb8c155b",
+        "android_client_info": {
+          "package_name": "uk.ac.kent.am2230.kentnewsfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678326234024-p76eljg6leuefjveoj2f2ta146tb4d3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyzF2JRojnjRva-sZa2MdO3QlcIRdjDVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
